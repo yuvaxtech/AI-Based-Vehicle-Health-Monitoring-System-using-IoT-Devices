@@ -140,3 +140,8 @@ Cloud Monitoring (ThingSpeak)
 
 ## Cloud Monitoring
 ![ThingSpeak](docs/ThingSpeak.png)
+
+## How to Run
+
+pip install -r requirements.txt
+streamlit run dashboard.py
