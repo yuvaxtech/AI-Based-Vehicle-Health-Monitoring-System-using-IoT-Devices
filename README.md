@@ -129,3 +129,14 @@ Dashboard Preview
 System Architecture Diagram
 Wokwi Simulation
 Cloud Monitoring (ThingSpeak)
+## Dashboard Preview
+![Dashboard](docs/Dashboard.png)
+
+## System Architecture
+![Architecture](docs/System Architecture Diagram.png)
+
+## Wokwi Simulation
+![Simulation](docs/Wokwi Simulation.png)
+
+## Cloud Monitoring
+![ThingSpeak](docs/ThingSpeak Cloud.png)
