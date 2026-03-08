@@ -133,10 +133,10 @@ Cloud Monitoring (ThingSpeak)
 ![Dashboard](docs/Dashboard.png)
 
 ## System Architecture
-![Architecture](docs/System Architecture Diagram.png)
+![Architecture](docs/SystemArchitecture.png)
 
 ## Wokwi Simulation
-![Simulation](docs/Wokwi Simulation.png)
+![Simulation](docs/WokwiSimulation.png)
 
 ## Cloud Monitoring
-![ThingSpeak](docs/ThingSpeak Cloud.png)
+![ThingSpeak](docs/ThingSpeakCloud.png)
