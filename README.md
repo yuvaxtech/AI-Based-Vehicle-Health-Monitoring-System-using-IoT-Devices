@@ -125,3 +125,7 @@ Future improvements for this project may include:
 	•	Mobile application integration
 	•	SMS and push notification alerts
 	•	GPS-based vehicle tracking
+Dashboard Preview
+System Architecture Diagram
+Wokwi Simulation
+Cloud Monitoring (ThingSpeak)
