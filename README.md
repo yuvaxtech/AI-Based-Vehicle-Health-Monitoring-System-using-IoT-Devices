@@ -139,4 +139,4 @@ Cloud Monitoring (ThingSpeak)
 ![Simulation](docs/WokwiSimulation.png)
 
 ## Cloud Monitoring
-![ThingSpeak](docs/ThingSpeakCloud.png)
+![ThingSpeak](docs/ThingSpeak.png)
